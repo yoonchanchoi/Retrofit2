@@ -11,6 +11,7 @@ import retrofit2.Response
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
+//메인 액티비티
 class MainActivity : AppCompatActivity() {
 
     private lateinit var covidViewAdapter: CovidViewAdapter
